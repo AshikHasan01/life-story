@@ -6,3 +6,6 @@ I'm adding some new text
 
 
 I'm passed HSC in 2019
+
+
+debugging fixed for first one''
