@@ -9,3 +9,5 @@ I'm passed HSC in 2019
 
 
 debugging fixed for first one''
+
+second time adding from command
